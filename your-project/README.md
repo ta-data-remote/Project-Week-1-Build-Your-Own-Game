@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# German ultrahard Hangman
+*Sarah Vonderberg*
 
-*[Your Cohort, Campus & Date]*
+*[DAFT, Remote Campus & MAR21]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,7 +13,7 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+This is a classic hangman game with a German twist. All words that you have to guess are in German and extremely hard.
 
 ## Rules
 Briefly describe the rules of the game.
@@ -29,6 +29,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Salevo/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://slides.com/)  g drive
+[Trello](https://trello.com/b/HFYxcpUn/project-1-german-hangman)  
