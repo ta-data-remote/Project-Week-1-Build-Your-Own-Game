@@ -1,0 +1,133 @@
+Pseudo code:
+
+
+
+def tictactoe()
+
+*****INFO*****
+
+#info/rules
+
+**************
+
+while loop to play again:
+    
+    -> Input to choose player: go first? (Y/N)
+    
+    restart variables
+    
+    print game status (graph function)
+    
+    while no one wins and moves left:
+    
+        if player turn:
+            
+            ->Input to make a move
+            
+            make the move  and update the state of the game with global variables (move function)
+            
+            print game status ("you moved!") ??? (graph function)
+            
+            check win conditions
+            
+            give turn to computer
+         
+        else:
+             
+            if we can win (caniwin function):
+                move and win using move function
+             
+            elif we can lose (canilose function):
+                move and save using move function
+                 
+            else:
+                find best move (bestmove function)
+                 
+                make the move (move function)
+            
+            print game status "the computer moved" (graph function)
+            
+            give turn to player   
+            
+    declare winner
+    
+    -> Input want to play again? Y/N
+    
+    
+************************FUNCTIONS************************   
+
+(graph function)
+
+def graph(state_dict)
+
+#
+# Checks the keys 1, 2, 3, 4, 5, 6, 7, 8 and 9 (that correspond to positions of the game) and prints their values
+# together with the board graphics. The values of the dictionary should be O or X
+#
+
+(move function)
+
+def makemove(move,player,??)
+
+#
+#
+#
+#
+    
+    change game status
+    update win conditions (update_win_cons function) ???
+    
+    return new_state_dict, ??
+
+(update_win_cons function)
+
+def update_win_cons(player=True,move,move_wincons,move_wincons_dict,notmove_wincons,notmove_wincons_dict)
+
+#
+#
+#
+#
+
+for each moving_player_wincon:
+    
+
+
+
+
+
+(caniwin function)
+
+def caniwin(my_wincons,my_wincons_dict)
+
+#
+#check if any of the wincons left has only one move left in the dictionary
+#
+#
+
+for every wincon left:
+    check values in my_wincons_dict
+    if value==2:
+        find move missing from wincon
+        break
+    
+return move
+    
+    
+(canilose function)
+
+def canilose(player_wincons,player_wincons_dict)
+
+#
+#check if any of the wincons left has only one move left in the dictionary
+#
+#
+
+for every wincon left:
+    check values in player_wincons_dict
+    if dict(wincon)==2:
+        find move missing from wincon
+        break
+    
+return move
+
+(bestmove function)
