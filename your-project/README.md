@@ -44,6 +44,7 @@ My repository consists of:
     - Kick-Off.md (Instructions for the project)
     - .gitignore 
     - Folder: your-project
+        - DAFT Presentation Tic_Tac_Toe.key (presentation of the project)
         - README.md ("Read me" file including a summary of my project. You are literally looking at it)
         - Folder: TicTacToe 
             - pseudocode.txt (text file including the pseudocode)
