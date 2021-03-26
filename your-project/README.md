@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Title of Your Project - Guess the Number Game
+Nathalie Hubl
 
-*[Your Cohort, Campus & Date]*
+DAFT MAR2021, Remote/Berlin & 24.03.2021
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,22 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+In this game the player will have to guess a randomly selected number within the range 1 - 20. I think is a game that everyone can play, since it extremly simple to play.
 
 ## Rules
-Briefly describe the rules of the game.
+The player will have input 5 guesses in the game.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+First I took the time to think what is important in this project, which information do I need to give the player and how to code the program. After having an general idea, I started with a plan and a pseudocode, which I later converted into a code. Test runs to see if the game works.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used Trello to outline the deadlines, using the template provided.
 
-What does your repository look like? Explain your folder and file structure.
+My code is in the folder "your-project"
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://drive.google.com/file/d/1kW-C1MAjjMBjpsPM3S6orFS4446FlqD1/view?usp=sharing)  
+[Trello](https://trello.com/b/R1ERGr5x/plan-for-guess-the-number-game)  
