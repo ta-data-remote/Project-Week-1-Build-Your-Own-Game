@@ -42,8 +42,8 @@ My repository consists of:
 
 - Folder: Project-Week-1-Build-Your-Own-Game
     - Kick-Off.md (Instructions for the project)
-    - Folder: your-project
     - .gitignore 
+    - Folder: your-project
         - README.md ("Read me" file including a summary of my project. You are literally looking at it)
         - Folder: TicTacToe 
             - pseudocode.txt (text file including the pseudocode)
