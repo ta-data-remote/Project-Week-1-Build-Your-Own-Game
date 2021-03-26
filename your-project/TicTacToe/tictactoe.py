@@ -357,3 +357,5 @@ def tictactoe():
     print("\n")
     
     return 
+
+tictactoe()

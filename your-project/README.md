@@ -49,8 +49,7 @@ My repository consists of:
         - Folder: TicTacToe 
             - pseudocode.txt (text file including the pseudocode)
             - TicTacToe.ipynb (a python3-jupyter-notebook file including all the code that makes up the game)
-            - tictactoe.py (a python3 file including all the code that makes up the game. The game can be played in terminal by typing within python3 "from tictactoe import tictactoe" and then "tictactoe()")
-
+            - tictactoe.py (an python3 file that can run the game by typing "python3 tictactoe.py" in Terminal)
 
 ## Links
 
