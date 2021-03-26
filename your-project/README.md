@@ -40,22 +40,16 @@ I used the Trello template to organize my work and keep track of all remaining t
 
 My repository consists of:
 
-|·Folder· Project-Week-1-Build-Your-Own-Game
-|
-|     Kick-Off.md (Instructions for the project)
-|    
-|    |·Folder· your-project
-|    | 
-|    |     README.md ("Read me" file including a summary of my project. You are literally looking at it)
-|    | 
-|    |    |·Folder· TicTacToe 
-|    |    |
-|    |    |    pseudocode.txt (text file including the pseudocode)
-|    |    |    TicTacToe.ipynb (a python3-jupyter-notebook file including all the code that makes up the game)
-|    |    |    tictactoe.py (a python3 file including all the code that makes up the game. The game can be played in terminal   |    |    |                  by typing within python3 "from tictactoe import tictactoe" and then "tictactoe()")
+- Folder: Project-Week-1-Build-Your-Own-Game
+    - Kick-Off.md (Instructions for the project)
+    - Folder: your-project
+    - .gitignore 
+        - README.md ("Read me" file including a summary of my project. You are literally looking at it)
+        - Folder: TicTacToe 
+            - pseudocode.txt (text file including the pseudocode)
+            - TicTacToe.ipynb (a python3-jupyter-notebook file including all the code that makes up the game)
+            - tictactoe.py (a python3 file including all the code that makes up the game. The game can be played in terminal by typing within python3 "from tictactoe import tictactoe" and then "tictactoe()")
 
-
-    
 
 ## Links
 
