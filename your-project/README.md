@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Faisal's Blackjack
 
-*[Your Cohort, Campus & Date]*
+*Faisal Hammad*
+
+*Data Analytics, Remote Mar 2021*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +14,25 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I chose to create the Blackjack game since I wanted to use code using a dictionary. The dictionary I used in this instance was the deck of cards.
 
 ## Rules
-Briefly describe the rules of the game.
+The game is simple: each card has a power. You start with 2 cards and are given the option to get more cards.. 
+Your score is the sum of the card powers you have. Your score should be as closest possible to the number 21. if you exceed you lose
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+I started with defining functions to the main actions of the game which are:
+* shuffeling
+* dealing
+* hitting and standing
+* ace power
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+I used a kanban board to track my progress but most of the work was
+my repo includes this readme file, the .gitignore file, and a folder that contains the jupyter_notebook file.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Faisal7ammad/Project-Week-1-Build-Your-Own-Game)  
+[Slides](https://drive.google.com/file/d/1zV7l2-VqTTGluNttK8WuHkXvuj84o4lz/view?usp=sharing)  
+[Trello](https://trello.com/b/G8jVR5ct/blackjack-project)  
