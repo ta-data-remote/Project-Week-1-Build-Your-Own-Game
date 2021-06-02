@@ -28,7 +28,6 @@ bowler
 bowling
 boxer
 boxing
-bronze medal
 bunt
 canoe
 canoeing
@@ -42,7 +41,6 @@ coach
 compete
 competing
 competition
-C cont.
 competitor
 crew
 cricket
@@ -84,9 +82,6 @@ frisbee
 game
 gear
 geocaching
-
-
-
 go
 goal
 goalie
@@ -108,24 +103,18 @@ heptathlon
 high jump
 hitter
 hockey
-hole-in-one
-home
-home plate
-home run
-home team
 hoop
 horseshoes
 huddle
 hurdle
-ice hockey
-ice rink
-ice skates
-ice skating
+icehockey
+icerink
+iceskates
+iceskating
 infield
 infielder
 inline skates
 inning
-jai-alai
 javelin
 jog
 jogger
@@ -133,37 +122,34 @@ judo
 jump
 jumper
 jumping
-jump rope
+jumprope
 karate
 kayak
 kayaker
 kayaking
 kickball
 kneepads
-king fu
+kingfu
 kite
 lacrosse
-lawn bowling
+bowling
 league
 long jump
 lose
 loser
 luge
 lutz
-major league
 mallet
-martial arts
+martialarts
 mat
 medal
-minor league
 mitt
 mouthguard
 move
 movement
 MVP
 net
-no-hitter
-Nordic skiing
+Nordicskiing
 offense
 ollie
 Olympics
@@ -177,19 +163,16 @@ paddling
 paintball
 parasailing
 parkour
-P Cont.
 pentathlon
 pickleball
-ping pong
+pingpong
 pitch
 pitcher
 play
 player
 playing
 playoffs
-pogo stick
 pole
-pole vault
 polo
 pool
 puck
@@ -208,9 +191,9 @@ relay
 ride
 riding
 rink
-rock climbing
-roller skates
-roller skating
+climbing
+rollerskates
+rollerskating
 row
 rower
 rowing
@@ -223,14 +206,9 @@ score
 scoreboard
 scuba
 scull
-S Cont.
 sculling
 shortstop
-shot put
-silver medal
 skate
-skating rink
-skeleton
 ski
 skier
 skiing
@@ -239,8 +217,6 @@ sled
 sledder
 sledding
 snorkling
-
-
 snowboard
 snowboarder
 snowboarding
@@ -248,7 +224,6 @@ snowshoeing
 soccer
 softball
 somersault
-speed skating
 sport
 sportsmanship
 squash
@@ -256,29 +231,25 @@ stadium
 stick
 strike
 stroke
-Sumo wrestling
+Sumo
 surfer
 surfing
 swim
 swimmer
 swimming
-synchronized swimming
-table tennis
+tabletennis
 taekwondo
 tag
 target
 team
 teammate
 tee
-telemark skiing
 tennis
 tetherball
 throw
-T Cont.
 throwing
 tie
 toboggan
-track and field
 trampoline
 triathlon
 triathlete
@@ -308,7 +279,7 @@ weightlifter
 weightlifting
 weights
 wetsuit
-white water rafting
+rafting
 wicket
 win
 windsurfer
