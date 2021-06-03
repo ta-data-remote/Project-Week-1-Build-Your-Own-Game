@@ -82,8 +82,6 @@ print(f'\n{turns_message}')
 guess = None
 current_turn = 0
 
-print(magic_number)
-
 while current_turn < turns and not guess == magic_number:
     try:
         guess = int(input(f'{message}'))
