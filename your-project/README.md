@@ -34,7 +34,7 @@ The development of the game was divided in steps:
 ## Organization
 To organize my work I used a trello board, in which I created several cards with the different tasks.
 
-What does your repository look like? Explain your folder and file structure.
+My repo is in a folder which includes 3 files: .gitignore, README.md, and Hangman.ipynb. It also includes a folder called .ipynb_checkpoints.
 
 ## Links
 
