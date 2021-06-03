@@ -16,7 +16,10 @@
 The goal of the project is to build a simple console game
 
 ## Rules
-Guess the secret number in the magician's hat. If your guess is higher or lower, you'll get a hint.
+The FunBrain Magician will pick a secret number and put it in his hat.
+You guess what number it is.
+If your guess is too high or too low, FunBrain will give you a hint.
+See how many turns it takes you to win!
 
 ## Workflow
 1. Research about the game.
@@ -26,6 +29,7 @@ Guess the secret number in the magician's hat. If your guess is higher or lower,
 3. Code the game
 
 4. Test it
+
 4.1. Handling some edge cases and errors
 
 5. Prepare presentation
