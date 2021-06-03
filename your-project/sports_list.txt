@@ -45,7 +45,6 @@ competitor
 crew
 cricket
 croquet
-cross country
 cue
 curling
 cycle
@@ -71,9 +70,8 @@ exercise
 fencing
 field
 fielder
-field hockey
+hockey
 fielding
-figure skating
 fitness
 football
 forward
@@ -94,9 +92,8 @@ gymnast
 gymnastics
 gymnasium
 halftime
-hammer throw
 handball
-hang gliding
+hangliding
 hardball
 helmet
 heptathlon
@@ -134,7 +131,6 @@ kite
 lacrosse
 bowling
 league
-long jump
 lose
 loser
 luge
@@ -147,8 +143,6 @@ mitt
 mouthguard
 move
 movement
-MVP
-net
 Nordicskiing
 offense
 ollie
@@ -286,7 +280,5 @@ windsurfer
 windsurfing
 winner
 winning
-World Cup
-World Series
 wrestler
 wrestling
