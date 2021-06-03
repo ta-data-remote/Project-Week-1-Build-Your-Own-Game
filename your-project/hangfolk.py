@@ -171,7 +171,7 @@ def main():
         if player_wins:
             print(f"Cool! You have won! The word was: {word}")
         else:
-            print("Sorry, you have used all your lives. You are hanged!")
+            print(f"Sorry! You are hanged! The word was: {word}")
 
         play_again = input("Would you like to play again?(Yes/No)")
         if play_again == "No":
