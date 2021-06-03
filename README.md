@@ -30,11 +30,11 @@ See how many turns it takes you to win!
 
 4. Test it
 
-4.1. Handling some edge cases and errors
+5. Handling some edge cases and errors
 
-5. Prepare presentation
+6. Prepare presentation
 
-6. Update github
+7. Update github
 
 
 ## Organization
