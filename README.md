@@ -27,6 +27,6 @@ The organization of the work occured on Notion and manually on paper for quick n
 The repository contains a folder named "your-code" a README file and also a gitignore file. The "your-code" folder contains the Jupyter file with the password generator.
 
 ## Links <a class="anchor" id="links"></a>
-[Repository](https://github.com/)  
+[Repository](https://github.com/qbsaram/Project-Week-1-Build-Your-Own-Game)  
 [Presentation](https://drive.google.com/drive/folders/1p7ZHvzo3XA7Ques3pE_boC2vO8PSWCD8/)  
 [Notion](https://www.notion.so/b06e659559e84a0aaa4c95232c3a9da4?v=8686689b588c44b390941c270d185651)  
