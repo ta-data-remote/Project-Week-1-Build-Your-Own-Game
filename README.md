@@ -56,5 +56,5 @@ The repository includes this Readme file and a gitignote. Inside of the folder y
 Links to the repository, slides and kanban board of this project.
 
 [Repository](https://github.com/lauratll/Project-Week-1-Build-Your-Own-Game)  
-[Slides](https://drive.google.com/file/d/1m77y7zY-pr_Tz0wQ3pKA55tHAnHH0Lcy/view?usp=sharing)  
+[Slides](https://drive.google.com/file/d/1A2sbVdCMirgQOVL3RaTMTmUf_eGgOOpf/view?usp=sharing)  
 [Trello](https://trello.com/b/wEj7kAZd/project-1-built-your-own-game)  
