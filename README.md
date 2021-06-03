@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# The hangfolk game vlau.0
+*Laura*
 
-*[Your Cohort, Campus & Date]*
+*Data Analysis Bootcamp, May 2021, Remote*
 
 ## Content
 - [Project Description](#project-description)
@@ -22,13 +22,22 @@ Briefly describe the rules of the game.
 Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
 
-What does your repository look like? Explain your folder and file structure.
+Phases of the project
+
+I have used a Trello board to organize my task. 
+- The first phase was for creating the kanban board with all task required and flesible deadlines. During the first day I started with the desgin of the game and pseudocode.
+- The second one for finished the pseudocode and started coding. 
+- The third phase to review the code, test the game, debug and prepare the presentation.
+If extra times, some extra ideas can be implemented.
+
+The reposirtory
+
+The repository includes this Readme file and a gitignote. Inside of the folder your code, it includes a python file with the script of the game and a jupyter notebook.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+Links to the repository, slides and kanban board of this project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/wEj7kAZd/project-1-built-your-own-game)  
