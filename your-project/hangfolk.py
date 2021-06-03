@@ -114,14 +114,17 @@ def generate_word_display(hidden_word, list_letters):
             result = result + "*"
     return result
 
-def print_current_game(list_letters,hidden_word):
+def print_current_game(list_letters,hidden_word,fails_left):
     '''
     This function prints the list of used letters and the encrypted word.
     It will be print every turn, so it will show the advances on the game.
-    The inputs are a list of letter(the used letters) and a string (encrypted word)
+    The inputs are a list of letter(the used letters), string (encrypted word) and
+    an integer(number of lives left)
     '''
     print("Those are the letters you have used:", list_letters)
     print("This is the word:", hidden_word)
+    print(f"You have {fails_left} lives left")
+
 
 
 
@@ -166,7 +169,7 @@ def main():
                 ongoing= False
                 player_wins= True
 
-            print_current_game(used_letters, word_display)
+            print_current_game(used_letters, word_display,lives)
 
         if player_wins:
             print(f"Cool! You have won! The word was: {word}")
