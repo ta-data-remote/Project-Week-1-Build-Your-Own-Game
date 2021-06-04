@@ -1,0 +1,45 @@
+Surgeon
+Anesthesiologist
+Cardiologist
+Traumatologist
+Orthopedist
+Gastroenterologist
+Dermatologist
+Gynaecologist
+Urologist
+Ophthalmologist
+Therapist
+Nurse
+Paediatrician
+Physician
+Doctor
+Family doctor
+Chronic
+Benign
+Terminal
+Treat
+Cure
+Sickness
+Cold
+Flu
+Virus
+Remedy
+Wound
+Burn
+Fracture
+Heal
+Injury
+Trauma
+Disease
+Exam
+Diagnosis
+Prescription
+Urine sample
+Blood sample
+Hypertension
+Cast
+Vein
+Syringe
+Painkiller
+Numb
+Dosage
