@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman game
+*[Ayub Pathan]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Cohort, Remote & 03.06.2021]*
+*[Teacher : Ignacio; TA: Raul]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +14,26 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+This short project demonstrates how to create & play hangman game.
+User is asked to guess the secret word to save hangman being hanged.
 
 ## Rules
-Briefly describe the rules of the game.
+1 Guess word is created randomly
+2 User has to provide a letter to fill in blanks to complete the word
+3 Totally assigned lives/turns are 5 (as defined in this game)
+4 Keep guessing the word until user succeed
+5 If user guess the word correctly, user will win
+6 If user runs out of turns, then hangman will be hanged and game will be over!
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+1 Selection of project
+2 Project planning
+3 Scrolling through resources to know more about the game
+4 Writing codes
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
